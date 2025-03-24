@@ -1,0 +1,9 @@
+{
+	"name": "MediCareADF",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c39ea6f5-33bb-4fb4-98c3-e65a31a557be",
+		"tenantId": "0af125a8-cbe9-4475-a917-b10966ea71a3"
+	}
+}
